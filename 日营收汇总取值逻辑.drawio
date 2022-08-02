@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:31:17.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DhEMx8s6TX7_Oe-gjzIR" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T02:31:40.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1YOufFiP1OjhNpZM5Yi8" version="20.0.1" type="github">
   <diagram id="R797PX4un_1RKkbnCDY3" name="第 1 页">
-    <mxGraphModel dx="1062" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,8 +41,8 @@
         <mxCell id="DioshYcZUjhNC1nyPAcM-7" value="zl_pos_sum_by_oby(按obj对象类型聚合)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-18" value="sku id关联取obj及一二级目录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309" y="520" width="170" height="20" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-18" value="sku id关联取一二级目录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="520" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-19" target="DioshYcZUjhNC1nyPAcM-1">
           <mxGeometry relative="1" as="geometry" />
