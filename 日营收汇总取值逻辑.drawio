@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:53:50.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tK8JwDEd-tnYg2cYpHDy" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T03:31:40.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0QU1MugTl23GXLf9SbAt" version="20.0.1" type="github">
   <diagram id="R797PX4un_1RKkbnCDY3" name="第 1 页">
     <mxGraphModel dx="1062" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="DioshYcZUjhNC1nyPAcM-28" value="按日做聚合处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-29" value="支付单：pos_orders_master&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)&lt;br&gt;退款单：pos_rma_master&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)&lt;br&gt;纠错表：bill_correction_apply_record (pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+        <mxCell id="DioshYcZUjhNC1nyPAcM-29" value="支付单：pos_orders_master&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)&lt;br&gt;退款单：pos_rma_master&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)&lt;br&gt;纠错表：bill_correction_apply_record (pay_date:2022-08-01&amp;nbsp; in_bill_date:2022-07-31)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
           <mxGeometry x="300" y="820" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-30" target="DioshYcZUjhNC1nyPAcM-29">
