@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T02:23:06.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dFhbD1TBGEBZnG4cR8-5" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T02:30:17.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4tezRjQgKBXvILwC3Wgr" version="20.0.1" type="github">
   <diagram id="R797PX4un_1RKkbnCDY3" name="第 1 页">
-    <mxGraphModel dx="1062" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DioshYcZUjhNC1nyPAcM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-1" target="DioshYcZUjhNC1nyPAcM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-1" value="dim_product（产品维表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DioshYcZUjhNC1nyPAcM-1" value="dim_product（产品维表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="60" y="585" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-2" target="DioshYcZUjhNC1nyPAcM-6">
@@ -35,11 +35,11 @@
         <mxCell id="DioshYcZUjhNC1nyPAcM-3" value="erp_sale_goods_list（订单明细表 1.16亿）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="585" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-6" value="zl_pos_sum_by_category（按一二级目录聚合）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="270" height="20" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-6" value="zl_pos_sum_by_category（按一二级目录聚合）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-7" value="zl_pos_sum_by_oby(按obj对象类型聚合)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="260" height="30" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-7" value="zl_pos_sum_by_oby(按obj对象类型聚合)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-18" value="sku id关联取obj及一二级目录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="309" y="520" width="170" height="20" as="geometry" />
@@ -47,14 +47,14 @@
         <mxCell id="DioshYcZUjhNC1nyPAcM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-19" target="DioshYcZUjhNC1nyPAcM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-19" value="md_prouduct（产品表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="740" width="160" height="30" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-19" value="md_prouduct（产品表 1670万）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DioshYcZUjhNC1nyPAcM-20" target="DioshYcZUjhNC1nyPAcM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-20" value="md_prudct_category（产品目录表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="220" height="30" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-20" value="md_prudct_category（产品目录表）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="250" y="740" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-25" value="拆分目录父子树结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="120" height="20" as="geometry" />
@@ -83,8 +83,8 @@
             <mxPoint x="390" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DioshYcZUjhNC1nyPAcM-34" value="可关联到对应订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="700" width="110" height="20" as="geometry" />
+        <mxCell id="DioshYcZUjhNC1nyPAcM-34" value="订单号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DioshYcZUjhNC1nyPAcM-36" value="eg：2022-08-01纠错至2022-07-31" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="1010" width="200" height="20" as="geometry" />
