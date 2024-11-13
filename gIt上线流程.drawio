@@ -46,7 +46,7 @@
             <mxPoint x="320" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTRFKImxgImTVGHLN-d3-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;git pull origin master&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
+        <mxCell id="NTRFKImxgImTVGHLN-d3-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;git pull origin/master&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NTRFKImxgImTVGHLN-d3-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上线人员合并&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
